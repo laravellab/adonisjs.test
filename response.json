@@ -1,86 +1,88 @@
-"user": {
-    "id": 1,
-    "name": "Yash Pal",
-    "email": "iyashpal.dev@gmail.com",
-    "remember_me_token": null,
-    "created_at": "2022-05-16T11:10:24.164+05:30",
-    "updated_at": "2022-05-16T11:10:24.164+05:30",
-    "products": [
-        {
-            "id": 1,
-            "user_id": "1",
-            "title": "Product 1",
-            "description": "This is description",
-            "created_at": "2022-05-16T11:11:34.209+05:30",
-            "updated_at": "2022-05-16T11:11:34.209+05:30",
-            "media": [
-                {
-                    "id": 1,
-                    "product_id": "1",
-                    "file_url": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1999&q=80",
-                    "caption": "This is media caption",
-                    "created_at": "2022-05-16T11:11:34.209+05:30",
-                    "updated_at": "2022-05-16T11:11:34.209+05:30",
-                },
-                {
-                    "id": 2,
-                    "product_id": "1",
-                    "file_url": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1999&q=80",
-                    "caption": "This is media caption",
-                    "created_at": "2022-05-16T11:11:34.209+05:30",
-                    "updated_at": "2022-05-16T11:11:34.209+05:30",
-                },
-                {
-                    "id": 3,
-                    "product_id": "1",
-                    "file_url": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1999&q=80",
-                    "caption": "This is media caption",
-                    "created_at": "2022-05-16T11:11:34.209+05:30",
-                    "updated_at": "2022-05-16T11:11:34.209+05:30",
-                },
-                {
-                    "id": 4,
-                    "product_id": "1",
-                    "file_url": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1999&q=80",
-                    "caption": "This is media caption",
-                    "created_at": "2022-05-16T11:11:34.209+05:30",
-                    "updated_at": "2022-05-16T11:11:34.209+05:30",
-                }
-            ]
-        },
-        {
-            "id": 2,
-            "user_id": "1",
-            "title": "Product 2",
-            "description": "This is product 2 description...",
-            "created_at": "2022-05-16T11:12:28.865+05:30",
-            "updated_at": "2022-05-16T11:12:28.865+05:30",
-            "media": [
-                {
-                    "id": 5,
-                    "product_id": "2",
-                    "file_url": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1999&q=80",
-                    "caption": "This is media caption",
-                    "created_at": "2022-05-16T11:11:34.209+05:30",
-                    "updated_at": "2022-05-16T11:11:34.209+05:30",
-                },
-                {
-                    "id": 6,
-                    "product_id": "2",
-                    "file_url": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1999&q=80",
-                    "caption": "This is media caption",
-                    "created_at": "2022-05-16T11:11:34.209+05:30",
-                    "updated_at": "2022-05-16T11:11:34.209+05:30",
-                },
-                {
-                    "id": 7,
-                    "product_id": "2",
-                    "file_url": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1999&q=80",
-                    "caption": "This is media caption",
-                    "created_at": "2022-05-16T11:11:34.209+05:30",
-                    "updated_at": "2022-05-16T11:11:34.209+05:30",
-                }
-            ]
-        }
-    ]
+{
+    "user": {
+        "id": 1,
+        "name": "Yash Pal",
+        "email": "iyashpal.dev@gmail.com",
+        "remember_me_token": null,
+        "created_at": "2022-05-16T11:10:24.164+05:30",
+        "updated_at": "2022-05-16T11:10:24.164+05:30",
+        "products": [
+            {
+                "id": 1,
+                "user_id": "1",
+                "title": "Product 1",
+                "description": "This is description",
+                "created_at": "2022-05-16T11:11:34.209+05:30",
+                "updated_at": "2022-05-16T11:11:34.209+05:30",
+                "media": [
+                    {
+                        "id": 1,
+                        "product_id": "1",
+                        "file_url": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1999&q=80",
+                        "caption": "This is media caption",
+                        "created_at": "2022-05-16T11:11:34.209+05:30",
+                        "updated_at": "2022-05-16T11:11:34.209+05:30"
+                    },
+                    {
+                        "id": 2,
+                        "product_id": "1",
+                        "file_url": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1999&q=80",
+                        "caption": "This is media caption",
+                        "created_at": "2022-05-16T11:11:34.209+05:30",
+                        "updated_at": "2022-05-16T11:11:34.209+05:30"
+                    },
+                    {
+                        "id": 3,
+                        "product_id": "1",
+                        "file_url": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1999&q=80",
+                        "caption": "This is media caption",
+                        "created_at": "2022-05-16T11:11:34.209+05:30",
+                        "updated_at": "2022-05-16T11:11:34.209+05:30"
+                    },
+                    {
+                        "id": 4,
+                        "product_id": "1",
+                        "file_url": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1999&q=80",
+                        "caption": "This is media caption",
+                        "created_at": "2022-05-16T11:11:34.209+05:30",
+                        "updated_at": "2022-05-16T11:11:34.209+05:30"
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "user_id": "1",
+                "title": "Product 2",
+                "description": "This is product 2 description...",
+                "created_at": "2022-05-16T11:12:28.865+05:30",
+                "updated_at": "2022-05-16T11:12:28.865+05:30",
+                "media": [
+                    {
+                        "id": 5,
+                        "product_id": "2",
+                        "file_url": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1999&q=80",
+                        "caption": "This is media caption",
+                        "created_at": "2022-05-16T11:11:34.209+05:30",
+                        "updated_at": "2022-05-16T11:11:34.209+05:30"
+                    },
+                    {
+                        "id": 6,
+                        "product_id": "2",
+                        "file_url": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1999&q=80",
+                        "caption": "This is media caption",
+                        "created_at": "2022-05-16T11:11:34.209+05:30",
+                        "updated_at": "2022-05-16T11:11:34.209+05:30"
+                    },
+                    {
+                        "id": 7,
+                        "product_id": "2",
+                        "file_url": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1999&q=80",
+                        "caption": "This is media caption",
+                        "created_at": "2022-05-16T11:11:34.209+05:30",
+                        "updated_at": "2022-05-16T11:11:34.209+05:30"
+                    }
+                ]
+            }
+        ]
+    }
 }
